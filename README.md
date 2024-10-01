@@ -2,6 +2,8 @@
 
 Userspace eBPF VM
 
+(this is a fork modified to be integrated in the [OSv](https://osv.io/) unikernel as a module. The kernel code is [here](https://github.com/Meandres/osv).
+
 [![Main](https://github.com/iovisor/ubpf/actions/workflows/main.yml/badge.svg)](https://github.com/iovisor/ubpf/actions/workflows/main.yml)
 [![Coverage Status](https://coveralls.io/repos/iovisor/ubpf/badge.svg?branch=main&service=github)](https://coveralls.io/github/iovisor/ubpf?branch=main)
 
